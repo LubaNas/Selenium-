@@ -5,6 +5,7 @@ import com.github.javafaker.Faker;
 public class FakerPractice {
     public static void main(String[] args) {
         //create Faker object
+        //generatedata.com; needs to be reflected in dependencies in pom.xml
 
         Faker fakeData = new Faker();
 

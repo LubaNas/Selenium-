@@ -25,7 +25,7 @@ public class VerifyLogin {
 
         String expected = "Welcome to the Secure Area. When you are done click logout below.";
 
-        //String vs Webelement
+        //String vs WebElement
 
         String actualWelcomeMsge = welcomeMsg.getText();
 
