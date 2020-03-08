@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f44ee75c-a4a9-4a11-a10f-8ba1fc7e1403" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/Day3_Locators2/FakerPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/Day3_Locators2/FakerPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/Day3_Locators2/VerifyLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/Day3_Locators2/VerifyLogin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/Day3_Locators2/FakerPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/Day3_Locators2/FakerPractice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/Day4_xpath/textMethodOfXpath.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/Day4_xpath/textMethodOfXpath.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,13 +44,13 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
-  <component name="RunManager" selected="Application.textMethodOfXpath">
-    <configuration name="GetAttribute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.Day4_xpath.GetAttribute" />
+  <component name="RunManager" selected="Application.Xpathdemo">
+    <configuration name="ClassNameExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.Day5_more_xpath.ClassNameExample" />
       <module name="fall-2019-selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.Day4_xpath.*" />
+          <option name="PATTERN" value="com.cybertek.tests.Day5_more_xpath.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,25 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetAttribute2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.Day4_xpath.GetAttribute2" />
+    <configuration name="Practice1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.Practice.Practice1" />
       <module name="fall-2019-selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.Day4_xpath.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PracticeFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.Day4_xpath.PracticeFactory" />
-      <module name="fall-2019-selenium-project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.Day4_xpath.*" />
+          <option name="PATTERN" value="com.cybertek.tests.Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,6 +77,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.cybertek.tests.Day4_xpath.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Xpathdemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.Day5_more_xpath.Xpathdemo" />
+      <module name="fall-2019-selenium-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.tests.Day5_more_xpath.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Xpathdemo" />
+        <item itemvalue="Application.ClassNameExample" />
+        <item itemvalue="Application.Practice1" />
         <item itemvalue="Application.textMethodOfXpath" />
         <item itemvalue="Application.Xpath" />
-        <item itemvalue="Application.PracticeFactory" />
-        <item itemvalue="Application.GetAttribute2" />
-        <item itemvalue="Application.GetAttribute" />
       </list>
     </recent_temporary>
   </component>
@@ -140,22 +138,22 @@
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="502" y="216" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1583182141208" />
-    <state width="1397" height="242" key="GridCell.Tab.0.bottom" timestamp="1583618647993">
+    <state width="1397" height="242" key="GridCell.Tab.0.bottom" timestamp="1583700075137">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="242" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1583618647993" />
-    <state width="1397" height="242" key="GridCell.Tab.0.center" timestamp="1583618647993">
+    <state width="1397" height="242" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1583700075137" />
+    <state width="1397" height="242" key="GridCell.Tab.0.center" timestamp="1583700075137">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="242" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1583618647993" />
-    <state width="1397" height="242" key="GridCell.Tab.0.left" timestamp="1583618647993">
+    <state width="1397" height="242" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1583700075137" />
+    <state width="1397" height="242" key="GridCell.Tab.0.left" timestamp="1583700075137">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="242" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1583618647993" />
-    <state width="1397" height="242" key="GridCell.Tab.0.right" timestamp="1583618647993">
+    <state width="1397" height="242" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1583700075137" />
+    <state width="1397" height="242" key="GridCell.Tab.0.right" timestamp="1583700075137">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="242" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1583618647993" />
+    <state width="1397" height="242" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1583700075137" />
     <state x="230" y="103" key="SettingsEditor" timestamp="1583077449677">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
