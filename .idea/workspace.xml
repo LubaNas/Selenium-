@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f44ee75c-a4a9-4a11-a10f-8ba1fc7e1403" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/WebDriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/WebDriverFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/Day5_more_xpath/Xpathdemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/Day5_more_xpath/Xpathdemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/utilities/WebDriverFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/utilities/WebDriverFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/AmazonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/Practice/AmazonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/AmazonTestWithText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/Practice/AmazonTestWithText.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,13 +45,13 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
-  <component name="RunManager" selected="Application.AmazonWithCss">
+  <component name="RunManager" selected="Application.getAttributeMethod">
     <configuration name="AmazonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.AmazonTest" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.Practice.AmazonTest" />
       <module name="fall-2019-selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.*" />
+          <option name="PATTERN" value="com.cybertek.tests.Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,11 +60,11 @@
       </method>
     </configuration>
     <configuration name="AmazonTestWithText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.AmazonTestWithText" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.Practice.AmazonTestWithText" />
       <module name="fall-2019-selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.*" />
+          <option name="PATTERN" value="com.cybertek.tests.Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,19 +85,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CssExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.Day6_css.CssExample" />
-      <module name="fall-2019-selenium-project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.Day6_css.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="OfficeHourB15_Collections" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.officehours.OfficeHourB15_Collections" />
       <module name="fall-2019-selenium-project" />
@@ -112,13 +98,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="getAttributeMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.Practice.getAttributeMethod" />
+      <module name="fall-2019-selenium-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.tests.Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.getAttributeMethod" />
         <item itemvalue="Application.AmazonWithCss" />
         <item itemvalue="Application.AmazonTestWithText" />
         <item itemvalue="Application.AmazonTest" />
         <item itemvalue="Application.OfficeHourB15_Collections" />
-        <item itemvalue="Application.CssExample" />
       </list>
     </recent_temporary>
   </component>
@@ -149,26 +148,30 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="319" y="55" key="CommitChangelistDialog2" timestamp="1584302597001">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="319" y="55" key="CommitChangelistDialog2/0.0.1440.920@0.0.1440.920" timestamp="1584302597001" />
     <state x="502" y="216" key="FileChooserDialogImpl" timestamp="1583182141208">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="502" y="216" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1583182141208" />
-    <state width="736" height="143" key="GridCell.Tab.0.bottom" timestamp="1584219136220">
+    <state width="1397" height="144" key="GridCell.Tab.0.bottom" timestamp="1584302597053">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="736" height="143" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1584219136220" />
-    <state width="736" height="143" key="GridCell.Tab.0.center" timestamp="1584219136220">
+    <state width="1397" height="144" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1584302597053" />
+    <state width="1397" height="144" key="GridCell.Tab.0.center" timestamp="1584302597053">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="736" height="143" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1584219136220" />
-    <state width="736" height="143" key="GridCell.Tab.0.left" timestamp="1584219136220">
+    <state width="1397" height="144" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1584302597053" />
+    <state width="1397" height="144" key="GridCell.Tab.0.left" timestamp="1584302597053">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="736" height="143" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1584219136220" />
-    <state width="736" height="143" key="GridCell.Tab.0.right" timestamp="1584219136220">
+    <state width="1397" height="144" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1584302597053" />
+    <state width="1397" height="144" key="GridCell.Tab.0.right" timestamp="1584302597053">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="736" height="143" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1584219136220" />
+    <state width="1397" height="144" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1584302597053" />
     <state x="230" y="103" key="SettingsEditor" timestamp="1583077449677">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
