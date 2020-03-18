@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f44ee75c-a4a9-4a11-a10f-8ba1fc7e1403" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/AmazonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/Practice/AmazonTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/AmazonTestWithText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/Practice/AmazonTestWithText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,79 +44,102 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
-  <component name="RunManager" selected="Application.getAttributeMethod">
-    <configuration name="AmazonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.Practice.AmazonTest" />
+  <component name="RunManager" selected="TestNG.BeforeAndAfterTest">
+    <configuration name="BeforeAndAfterTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="fall-2019-selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.Practice.*" />
+          <option name="PATTERN" value="com.cybertek.tests.Day9_testNG_intro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.Day9_testNG_intro" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.Day9_testNG_intro.BeforeAndAfterTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AmazonTestWithText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.Practice.AmazonTestWithText" />
+    <configuration name="TestNgAssertionsTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="fall-2019-selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.Practice.*" />
+          <option name="PATTERN" value="com.cybertek.tests.Day9_testNG_intro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.Day9_testNG_intro" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.Day9_testNG_intro.TestNgAssertionsTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AmazonWithCss" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.Practice.AmazonWithCss" />
+    <configuration name="TestNgAssertionsTest.test3" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="fall-2019-selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.Practice.*" />
+          <option name="PATTERN" value="com.cybertek.tests.Day9_testNG_intro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.Day9_testNG_intro" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.Day9_testNG_intro.TestNgAssertionsTest" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OfficeHourB15_Collections" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.officehours.OfficeHourB15_Collections" />
+    <configuration name="TestNgAssertionsTest.test4" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="fall-2019-selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.officehours.*" />
+          <option name="PATTERN" value="com.cybertek.tests.Day9_testNG_intro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.Day9_testNG_intro" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.Day9_testNG_intro.TestNgAssertionsTest" />
+      <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="getAttributeMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.Practice.getAttributeMethod" />
+    <configuration name="TestNgAssertionsTest.test5" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="fall-2019-selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.Practice.*" />
+          <option name="PATTERN" value="com.cybertek.tests.Day9_testNG_intro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.Day9_testNG_intro" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.Day9_testNG_intro.TestNgAssertionsTest" />
+      <option name="METHOD_NAME" value="test5" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.getAttributeMethod" />
-        <item itemvalue="Application.AmazonWithCss" />
-        <item itemvalue="Application.AmazonTestWithText" />
-        <item itemvalue="Application.AmazonTest" />
-        <item itemvalue="Application.OfficeHourB15_Collections" />
+        <item itemvalue="TestNG.BeforeAndAfterTest" />
+        <item itemvalue="TestNG.TestNgAssertionsTest.test5" />
+        <item itemvalue="TestNG.TestNgAssertionsTest.test4" />
+        <item itemvalue="TestNG.TestNgAssertionsTest.test3" />
+        <item itemvalue="TestNG.TestNgAssertionsTest" />
       </list>
     </recent_temporary>
   </component>
@@ -132,6 +154,14 @@
       <option name="presentableId" value="Default" />
       <updated>1583011818914</updated>
     </task>
+    <task id="LOCAL-00001" summary="&quot;commit&quot;">
+      <created>1584302674109</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584302674109</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -147,31 +177,40 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="++" />
+    <MESSAGE value="&quot;commit&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;commit&quot;" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="319" y="55" key="CommitChangelistDialog2" timestamp="1584302597001">
+    <state x="94" y="94" width="1252" height="732" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1584489382616">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="319" y="55" key="CommitChangelistDialog2/0.0.1440.920@0.0.1440.920" timestamp="1584302597001" />
+    <state x="94" y="94" width="1252" height="732" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1440.920@0.0.1440.920" timestamp="1584489382616" />
+    <state x="319" y="55" key="CommitChangelistDialog2" timestamp="1584302672075">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="319" y="55" key="CommitChangelistDialog2/0.0.1440.920@0.0.1440.920" timestamp="1584302672075" />
     <state x="502" y="216" key="FileChooserDialogImpl" timestamp="1583182141208">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="502" y="216" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1583182141208" />
-    <state width="1397" height="144" key="GridCell.Tab.0.bottom" timestamp="1584302597053">
+    <state width="1397" height="208" key="GridCell.Tab.0.bottom" timestamp="1584494926701">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="144" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1584302597053" />
-    <state width="1397" height="144" key="GridCell.Tab.0.center" timestamp="1584302597053">
+    <state width="1397" height="208" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1584494926701" />
+    <state width="1397" height="208" key="GridCell.Tab.0.center" timestamp="1584494926701">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="144" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1584302597053" />
-    <state width="1397" height="144" key="GridCell.Tab.0.left" timestamp="1584302597053">
+    <state width="1397" height="208" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1584494926701" />
+    <state width="1397" height="208" key="GridCell.Tab.0.left" timestamp="1584494926701">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="144" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1584302597053" />
-    <state width="1397" height="144" key="GridCell.Tab.0.right" timestamp="1584302597053">
+    <state width="1397" height="208" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1584494926701" />
+    <state width="1397" height="208" key="GridCell.Tab.0.right" timestamp="1584494926701">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="144" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1584302597053" />
+    <state width="1397" height="208" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1584494926701" />
     <state x="230" y="103" key="SettingsEditor" timestamp="1583077449677">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
