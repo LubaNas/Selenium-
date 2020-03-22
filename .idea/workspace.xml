@@ -21,6 +21,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -46,18 +47,18 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
-  <component name="RunManager" selected="TestNG.ListOfElementsTest.buttonVerifies">
-    <configuration name="CheckBoxesTest.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.ActionsClassDemo.hoverTest1">
+    <configuration name="ActionsClassDemo.hoverTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="fall-2019-selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.Day10_webElements.*" />
+          <option name="PATTERN" value="com.cybertek.tests.Day11_select_actions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.tests.Day10_webElements" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.Day10_webElements.CheckBoxesTest" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.Day11_select_actions" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.Day11_select_actions.ActionsClassDemo" />
+      <option name="METHOD_NAME" value="hoverTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -65,17 +66,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListOfElementsTest.amazonTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ActionsClassDemo.hoverTest1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="fall-2019-selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.Day10_webElements.*" />
+          <option name="PATTERN" value="com.cybertek.tests.Day11_select_actions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.tests.Day10_webElements" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.Day10_webElements.ListOfElementsTest" />
-      <option name="METHOD_NAME" value="amazonTest" />
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.Day11_select_actions" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.Day11_select_actions.ActionsClassDemo" />
+      <option name="METHOD_NAME" value="hoverTest1" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -83,17 +84,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListOfElementsTest.buttonVerifies" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SelectClassesTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="fall-2019-selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.Day10_webElements.*" />
+          <option name="PATTERN" value="com.cybertek.tests.Day11_select_actions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.tests.Day10_webElements" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.Day10_webElements.ListOfElementsTest" />
-      <option name="METHOD_NAME" value="buttonVerifies" />
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.Day11_select_actions" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.Day11_select_actions.SelectClassesTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectClassesTest.getAllAvailableOptions" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="fall-2019-selenium-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.tests.Day11_select_actions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.Day11_select_actions" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.Day11_select_actions.SelectClassesTest" />
+      <option name="METHOD_NAME" value="getAllAvailableOptions" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -101,35 +119,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListOfElementsTest.getAllLinks" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SelectClassesTest.selectFromList" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="fall-2019-selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.Day10_webElements.*" />
+          <option name="PATTERN" value="com.cybertek.tests.Day11_select_actions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.tests.Day10_webElements" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.Day10_webElements.ListOfElementsTest" />
-      <option name="METHOD_NAME" value="getAllLinks" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ListOfElementsTest.listOfRadioButtons" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="fall-2019-selenium-project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.Day10_webElements.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.tests.Day10_webElements" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.Day10_webElements.ListOfElementsTest" />
-      <option name="METHOD_NAME" value="listOfRadioButtons" />
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.Day11_select_actions" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.Day11_select_actions.SelectClassesTest" />
+      <option name="METHOD_NAME" value="selectFromList" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -139,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.ListOfElementsTest.buttonVerifies" />
-        <item itemvalue="TestNG.ListOfElementsTest.amazonTest" />
-        <item itemvalue="TestNG.ListOfElementsTest.getAllLinks" />
-        <item itemvalue="TestNG.ListOfElementsTest.listOfRadioButtons" />
-        <item itemvalue="TestNG.CheckBoxesTest.test1" />
+        <item itemvalue="TestNG.ActionsClassDemo.hoverTest1" />
+        <item itemvalue="TestNG.ActionsClassDemo.hoverTest" />
+        <item itemvalue="TestNG.SelectClassesTest.getAllAvailableOptions" />
+        <item itemvalue="TestNG.SelectClassesTest.selectFromList" />
+        <item itemvalue="TestNG.SelectClassesTest" />
       </list>
     </recent_temporary>
   </component>
@@ -206,26 +206,30 @@
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="502" y="216" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1583182141208" />
-    <state width="1397" height="181" key="GridCell.Tab.0.bottom" timestamp="1584820222215">
+    <state width="1397" height="181" key="GridCell.Tab.0.bottom" timestamp="1584902548457">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="181" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1584820222215" />
-    <state width="1397" height="181" key="GridCell.Tab.0.center" timestamp="1584820222215">
+    <state width="1397" height="181" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1584902548457" />
+    <state width="1397" height="181" key="GridCell.Tab.0.center" timestamp="1584902548456">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="181" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1584820222215" />
-    <state width="1397" height="181" key="GridCell.Tab.0.left" timestamp="1584820222215">
+    <state width="1397" height="181" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1584902548456" />
+    <state width="1397" height="181" key="GridCell.Tab.0.left" timestamp="1584902548456">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="181" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1584820222215" />
-    <state width="1397" height="181" key="GridCell.Tab.0.right" timestamp="1584820222215">
+    <state width="1397" height="181" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1584902548456" />
+    <state width="1397" height="181" key="GridCell.Tab.0.right" timestamp="1584902548457">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="181" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1584820222215" />
+    <state width="1397" height="181" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1584902548457" />
     <state x="230" y="103" key="SettingsEditor" timestamp="1583077449677">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="230" y="103" key="SettingsEditor/0.0.1440.920@0.0.1440.920" timestamp="1583077449677" />
+    <state x="532" y="378" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584901546955">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="532" y="378" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.920@0.0.1440.920" timestamp="1584901546955" />
     <state x="151" y="163" key="new project wizard" timestamp="1583967613412">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
