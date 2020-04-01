@@ -110,4 +110,8 @@ public class ExplicitWaitExamples {
         myCalendar.click();
     }
 
+    @Test
+    public void test5Fluent(){
+       // driver.get();
+    }
 }
