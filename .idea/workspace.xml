@@ -4,6 +4,9 @@
     <list default="true" id="f44ee75c-a4a9-4a11-a10f-8ba1fc7e1403" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/pages/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/Day16_page_object_model/NegativeLoginTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/Day16_page_object_model/NegativeLoginTests.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,8 +51,26 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
-  <component name="RunManager" selected="TestNG.NegativeLoginTests.wrongPasswordtest">
-    <configuration name="NegativeLoginTests.wrongPasswordtest" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.MenuOptionsTest.test">
+    <configuration name="MenuOptionsTest.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="fall-2019-selenium-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.tests.Day17_ddt_dataprovider_pom2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.Day17_ddt_dataprovider_pom2" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.Day17_ddt_dataprovider_pom2.MenuOptionsTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PageHeadersTests.fleetVechiclesTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="fall-2019-selenium-project" />
       <extension name="coverage">
         <pattern>
@@ -58,8 +79,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.cybertek.tests.Day16_page_object_model" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.Day16_page_object_model.NegativeLoginTests" />
-      <option name="METHOD_NAME" value="wrongPasswordtest" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.Day16_page_object_model.PageHeadersTests" />
+      <option name="METHOD_NAME" value="fleetVechiclesTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -67,17 +88,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NegativeLoginTests.wrongUsernametest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="UserInfoDataDrivenTest2.test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="fall-2019-selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.Day16_page_object_model.*" />
+          <option name="PATTERN" value="com.cybertek.tests.Day17_ddt_dataprovider_pom2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.tests.Day16_page_object_model" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.Day16_page_object_model.NegativeLoginTests" />
-      <option name="METHOD_NAME" value="wrongUsernametest" />
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.Day17_ddt_dataprovider_pom2" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.Day17_ddt_dataprovider_pom2.UserInfoDataDrivenTest2" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -85,34 +106,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WebTablesTests" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="UserInfoDataDrivenTest.test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="fall-2019-selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.Day15_webtables.*" />
+          <option name="PATTERN" value="com.cybertek.tests.Day17_ddt_dataprovider_pom2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.tests.Day15_webtables" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.Day15_webtables.WebTablesTests" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WebTablesTests.getSingleRowByIndex" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="fall-2019-selenium-project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.Day15_webtables.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.tests.Day15_webtables" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.Day15_webtables.WebTablesTests" />
-      <option name="METHOD_NAME" value="getSingleRowByIndex" />
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.Day17_ddt_dataprovider_pom2" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.Day17_ddt_dataprovider_pom2.UserInfoDataDrivenTest" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -120,17 +124,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WebTablesTests.iterateTheTableUsingLoops" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="UserInfoDataDrivenTests2.test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="fall-2019-selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.Day15_webtables.*" />
+          <option name="PATTERN" value="com.cybertek.tests.Day17_ddt_dataprovider_pom2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.tests.Day15_webtables" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.Day15_webtables.WebTablesTests" />
-      <option name="METHOD_NAME" value="iterateTheTableUsingLoops" />
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.Day17_ddt_dataprovider_pom2" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.Day17_ddt_dataprovider_pom2.UserInfoDataDrivenTests2" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -140,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.NegativeLoginTests.wrongPasswordtest" />
-        <item itemvalue="TestNG.NegativeLoginTests.wrongUsernametest" />
-        <item itemvalue="TestNG.WebTablesTests.iterateTheTableUsingLoops" />
-        <item itemvalue="TestNG.WebTablesTests.getSingleRowByIndex" />
-        <item itemvalue="TestNG.WebTablesTests" />
+        <item itemvalue="TestNG.MenuOptionsTest.test" />
+        <item itemvalue="TestNG.UserInfoDataDrivenTests2.test" />
+        <item itemvalue="TestNG.UserInfoDataDrivenTest2.test" />
+        <item itemvalue="TestNG.UserInfoDataDrivenTest.test" />
+        <item itemvalue="TestNG.PageHeadersTests.fleetVechiclesTest" />
       </list>
     </recent_temporary>
   </component>
@@ -199,6 +203,10 @@
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="94" y="94" width="1252" height="732" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1440.920@0.0.1440.920" timestamp="1584489382616" />
+    <state x="426" y="144" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1586101631805">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="426" y="144" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1440.920@0.0.1440.920" timestamp="1586101631805" />
     <state x="415" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1585509756503">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
@@ -211,22 +219,22 @@
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="502" y="216" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1583182141208" />
-    <state width="1397" height="178" key="GridCell.Tab.0.bottom" timestamp="1586014801979">
+    <state width="1397" height="231" key="GridCell.Tab.0.bottom" timestamp="1586106531515">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="178" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1586014801979" />
-    <state width="1397" height="178" key="GridCell.Tab.0.center" timestamp="1586014801978">
+    <state width="1397" height="231" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1586106531515" />
+    <state width="1397" height="231" key="GridCell.Tab.0.center" timestamp="1586106531515">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="178" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1586014801978" />
-    <state width="1397" height="178" key="GridCell.Tab.0.left" timestamp="1586014801977">
+    <state width="1397" height="231" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1586106531515" />
+    <state width="1397" height="231" key="GridCell.Tab.0.left" timestamp="1586106531515">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="178" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1586014801977" />
-    <state width="1397" height="178" key="GridCell.Tab.0.right" timestamp="1586014801978">
+    <state width="1397" height="231" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1586106531515" />
+    <state width="1397" height="231" key="GridCell.Tab.0.right" timestamp="1586106531515">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="178" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1586014801978" />
+    <state width="1397" height="231" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1586106531515" />
     <state x="230" y="103" key="SettingsEditor" timestamp="1583077449677">
       <screen x="0" y="0" width="1440" height="920" />
     </state>

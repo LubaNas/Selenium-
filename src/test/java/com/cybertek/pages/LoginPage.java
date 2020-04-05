@@ -25,4 +25,10 @@ public class LoginPage {
 
     @FindBy(css = ".alert-error>div")
     public WebElement errorMessage;
+
+    public void login(String username, String password){
+        this.username.sendKeys(username);
+        this.password.sendKeys(password);
+        login.click();
+    }
 }
